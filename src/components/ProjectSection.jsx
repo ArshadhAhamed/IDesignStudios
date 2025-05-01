@@ -2,9 +2,9 @@ import React from "react";
 import archimg1 from "../assets/archimg1.jpg";
 import archimg2 from "../assets/archimg2.jpg"; 
 import archimg3 from "../assets/archimg3.jpg";
-
+import video from "../assets/Saleem Walkthrough F.mp4"
 // Remove local video import and add the GitHub Release URL directly
-const videoUrl = "https://github.com/ArshadhAhamed/IDesignStudios/releases/download/v1.0/Final_Interior.mp4";
+
 
 const ProjectSection = () => {
   return (
@@ -32,7 +32,7 @@ const ProjectSection = () => {
       {/* Second Video - GitHub Release URL */}
       <div className="my-10 max-w-5xl mx-auto">
         <video
-          src={videoUrl}  // Use the GitHub Release URL here
+          src={video}  // Use the GitHub Release URL here
           autoPlay
           muted
           loop
