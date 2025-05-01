@@ -2,7 +2,7 @@ import React from "react";
 import archimg1 from "../assets/archimg1.jpg";
 import archimg2 from "../assets/archimg2.jpg"; 
 import archimg3 from "../assets/archimg3.jpg";
-import video2 from "../assets/Final_interior.mp4";
+import video2 from "../assets/Final_Interior.mp4";
 
 const ProjectSection = () => {
   // Proper working Google Drive URL (using embed with correct parameters)
