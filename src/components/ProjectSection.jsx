@@ -2,7 +2,7 @@ import React from "react";
 import archimg1 from "../assets/archimg1.jpg";
 import archimg2 from "../assets/archimg2.jpg"; 
 import archimg3 from "../assets/archimg3.jpg";
-import video from "../assets/Saleem Walkthrough F.mp4"
+import video from "../assets/Saleem WalkThrough F.mp4"
 // Remove local video import and add the GitHub Release URL directly
 
 
